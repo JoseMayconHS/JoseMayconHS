@@ -1,6 +1,7 @@
 ## Olá, eu sou o Maycon Silva!
 
-- Atualmente trabalho como fullstack 👩‍💻 e estou a procura de novas oportunidades 🆕!
+- Programo desde 2018;
+- Atualmente trabalho como fullstack 👩‍💻 e estou a procura de novas oportunidades 🆕.
 
 <div align="center">
   <a href="https://github.com/JoseMayconHS">
