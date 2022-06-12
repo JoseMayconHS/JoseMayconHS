@@ -3,6 +3,9 @@
 - Programo desde 2018;
 - Atualmente trabalho como fullstack 👩‍💻 e estou a procura de novas oportunidades 🆕.
 
+## Portfólios online:
+ - FeiraApp_Public [(Repositório)](https://github.com/JoseMayconHS/FeiraApp_Public).
+
 <div align="center">
   <a href="https://github.com/JoseMayconHS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseMayconHS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
