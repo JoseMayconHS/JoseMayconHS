@@ -4,7 +4,7 @@
 - Atualmente trabalho como fullstack 👩‍💻 e estou a procura de novas oportunidades 🆕.
 
 ## Portfólios online:
- - FeiraApp_Public [(Repositório)](https://github.com/JoseMayconHS/FeiraApp_Public).
+ - Feira App [(Repositório)](https://github.com/JoseMayconHS/feiraapp-readme).
 
 <div align="center">
   <a href="https://github.com/JoseMayconHS">
