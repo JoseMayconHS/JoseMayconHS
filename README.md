@@ -1,7 +1,7 @@
 ## Olá, eu sou o Maycon Silva!
 
 - Programo desde 2018;
-- Atualmente trabalho como fullstack 👩‍💻 e estou a procura de novas oportunidades 🆕.
+- Atualmente atuo como fullstack 👩‍💻 e estou a procura de novas oportunidades 🆕.
 
 ## Projetos online:
  - Feira App [(Repositório)](https://github.com/JoseMayconHS/feiraapp-readme) - 2022;
