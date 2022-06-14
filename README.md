@@ -3,9 +3,11 @@
 - Programo desde 2018;
 - Atualmente trabalho como fullstack 👩‍💻 e estou a procura de novas oportunidades 🆕.
 
-## Portfólios online:
+## Projetos online:
  - Feira App [(Repositório)](https://github.com/JoseMayconHS/feiraapp-readme);
- - Run (Fullstack) [(Projeto online)](https://run-frontend.vercel.app/).
+ - Run (Fullstack) [(Site)](https://run-frontend.vercel.app/);
+ - Run (React) [(Site)](https://run-react.vercel.app/);
+ - Run (Somente javascript) [(Site)](https://run-javascript.vercel.app/).
 
 <div align="center">
   <a href="https://github.com/JoseMayconHS">
