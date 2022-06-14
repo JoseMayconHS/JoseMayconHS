@@ -5,7 +5,7 @@
 
 ## Portfólios online:
  - Feira App [(Repositório)](https://github.com/JoseMayconHS/feiraapp-readme);
- - Run [(Projeto online)](https://run-frontend.vercel.app/).
+ - Run (Fullstack) [(Projeto online)](https://run-frontend.vercel.app/).
 
 <div align="center">
   <a href="https://github.com/JoseMayconHS">
