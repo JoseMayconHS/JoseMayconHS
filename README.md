@@ -1,7 +1,8 @@
-## Olá, eu sou o Maycon Silva!
+## Olá, me chamo Maycon Silva!
 
 - Programo desde 2018;
 - Atualmente atuo como fullstack 👩‍💻 e estou a procura de novas oportunidades 🆕.
+- Meu principal objetivo é continuar desenvolvendo sistemas manuteníveis e escaláveis, e venho me aprimorando com um estudo árduo e práticas, aplicando-o em projetos profissionais.
 
 ## Projetos online:
  - Feira App [(Repositório)](https://github.com/JoseMayconHS/feiraapp-readme) - 2022;
@@ -19,11 +20,12 @@
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gatsby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+  <img align="center" alt="Scoket.io" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
