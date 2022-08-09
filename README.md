@@ -8,7 +8,7 @@
  - Meu portfólio [(Site)](https://portfolio-five-beta-17.vercel.app).
 
 ## Projetos online:
- - Feira App [(README)](https://github.com/JoseMayconHS/feiraapp-readme) - 2021;
+ - Feira App [(README)](https://github.com/JoseMayconHS/feiraapp-readme) / [(Backend)](https://github.com/JoseMayconHS/feiraapp-backend) - 2021;
  - Run (React) [(Site)](https://run-react.vercel.app/) / [(Repositório)](https://github.com/JoseMayconHS/run-react) - 2018;
  - Run (Somente javascript) [(Site)](https://run-javascript.vercel.app/) / [(Repositório)](https://github.com/JoseMayconHS/run-javascript) - 2018.
  
