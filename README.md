@@ -8,17 +8,17 @@
  - Meu portfólio [(Site)](https://portfolio-five-beta-17.vercel.app).
 
 ## Projetos online:
+ - Feira App [(Play Store)](https://play.google.com/store/apps/details?id=com.mayconsilva.feiraapp) / [(README)](https://github.com/JoseMayconHS/feiraapp-readme) / [(Backend)](https://github.com/JoseMayconHS/feiraapp-backend) - 2021;
  - Run (React) [(Site)](https://run-react.vercel.app/) / [(Repositório)](https://github.com/JoseMayconHS/run-react) - 2018;
  - Run (Somente javascript) [(Site)](https://run-javascript.vercel.app/) / [(Repositório)](https://github.com/JoseMayconHS/run-javascript) - 2018.
  
 ## Outros projetos:
- - Feira App [(README)](https://github.com/JoseMayconHS/feiraapp-readme) / [(Backend)](https://github.com/JoseMayconHS/feiraapp-backend) - 2021;
  - Run (Fullstack) [(Backend)](https://github.com/JoseMayconHS/run-backend) /  [(Frontend)](https://github.com/JoseMayconHS/run-frontend) - 2019;
 
 <div align="center">
   <a href="https://github.com/JoseMayconHS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseMayconHS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMayconHS&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-rho-rust.vercel.app/api?username=JoseMayconHS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-rho-rust.vercel.app/api/top-langs/?username=JoseMayconHS&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
