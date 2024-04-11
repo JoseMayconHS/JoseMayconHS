@@ -8,11 +8,11 @@
  - Meu portfólio [(Site)](https://portfolio-five-beta-17.vercel.app).
 
 ## Projetos online:
- - Feira App [(Play Store)](https://play.google.com/store/apps/details?id=com.mayconsilva.feiraapp) / [(README)](https://github.com/JoseMayconHS/feiraapp-readme) / [(Backend)](https://github.com/JoseMayconHS/feiraapp-backend) - 2021;
  - Run (React) [(Site)](https://run-react.vercel.app/) / [(Repositório)](https://github.com/JoseMayconHS/run-react) - 2018;
  - Run (Somente javascript) [(Site)](https://run-javascript.vercel.app/) / [(Repositório)](https://github.com/JoseMayconHS/run-javascript) - 2018.
  
 ## Outros projetos:
+ - Feira App [(README)](https://github.com/JoseMayconHS/feiraapp-readme) / [(Backend)](https://github.com/JoseMayconHS/feiraapp-backend) - 2021;
  - Run (Fullstack) [(Backend)](https://github.com/JoseMayconHS/run-backend) /  [(Frontend)](https://github.com/JoseMayconHS/run-frontend) - 2019;
 
 <div align="center">
@@ -37,7 +37,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/j.maycon.hs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/maycon.blessed" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jose.maycon.hermogenes.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-maycon-19a217190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
