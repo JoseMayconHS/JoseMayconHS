@@ -2,9 +2,23 @@
 
  Programo desde 2018;
  
- Atualmente atuo como fullstack 👩‍💻 e estou a procura de novas oportunidades 🆕.
- 
- Meu principal objetivo é continuar desenvolvendo sistemas manuteníveis e escaláveis, e venho me aprimorando com um estudo árduo e práticas, aplicando-o em projetos profissionais.
+ Formado em Análise e Desenvolvimento de Sistemas pela Unopar, em 2021.
+Desde o início da minha carreira em 2019, tenho me dedicado ao
+desenvolvimento de software, começando com PHP e WordPress.
+
+Ao longo dos anos, minha trajetória evoluiu para um foco mais profundo em
+desenvolvimento backend, com ênfase em Node.js e TypeScript. Minha
+experiência inclui a construção de sistemas robustos e escaláveis utilizando
+práticas avançadas de engenharia de software, como Clean Architecture e
+testes automatizados.
+
+Essas habilidades me permitem entregar soluções eficientes e de alta
+qualidade, alinhadas às melhores práticas do mercado. Com um sólido
+conhecimento em backend, estou sempre buscando aprimorar minhas
+competências e enfrentar novos desafios.
+
+Meu objetivo é continuar evoluindo como desenvolvedor e contribuir
+significativamente para projetos inovadores e impactantes.
 
 ## Portfólio
  - Meu portfólio [(Site)](https://portfolio-five-beta-17.vercel.app).
@@ -43,6 +57,6 @@
   <a href = "mailto:jose.maycon.hermogenes.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-maycon-19a217190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/josemayconhs/josemayconhs/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JoseMayconHS/JoseMayconHS/blob/output/github-contribution-grid-snake.svg)
  
 </div>
